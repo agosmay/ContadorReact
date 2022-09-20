@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+.contador {
+	min-width: 300px;/*expansible si tiene mas de 100 clicks o 1000*/
+	height: 300px;
+	font-size: 100px;
+	padding: 25px;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 8px solid white;
+	margin-bottom: 15px;
+	
+	
+}
